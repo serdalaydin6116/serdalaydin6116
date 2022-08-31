@@ -25,3 +25,7 @@ Visual Studio CodeGitGitHubPythonHTML5JavascriptReactLinux
 
 📫 How to reach me:
 --> linkedin -- email
+
+Some FrontEnd Projects (including which language, library or framework)
+
+Some BackEnd Projects (including which language, library or framework)
