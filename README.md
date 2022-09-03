@@ -27,6 +27,7 @@ Visual Studio CodeGitGitHubPythonHTML5JavascriptReactLinux
 --> linkedin -- email
 
 Some FrontEnd Projects 
+- Netflix Form (https://serdalaydin6116.github.io/Netflix_form/ )
 - Checkout Form-Dynamic Page  (https://serdalaydin6116.github.io/checkout-form-2-dynamic-with-js-/)
 - MovieSeat App (https://serdalaydin6116.github.io/movie-seat-app/)
 
