@@ -26,6 +26,9 @@ Visual Studio CodeGitGitHubPythonHTML5JavascriptReactLinux
 📫 How to reach me:
 --> linkedin -- email
 
-Some FrontEnd Projects (Checkout Form-Dynamic Page---https://serdalaydin6116.github.io/checkout-form-2-dynamic-with-js-/)
+Some FrontEnd Projects 
+- Checkout Form-Dynamic Page  (https://serdalaydin6116.github.io/checkout-form-2-dynamic-with-js-/)
+- MovieSeat App (https://serdalaydin6116.github.io/movie-seat-app/)
 
-Some BackEnd Projects (https://res-todo-app.herokuapp.com/)
+Some BackEnd Projects 
+- ToDoApp (https://res-todo-app.herokuapp.com/)
